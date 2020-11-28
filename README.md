@@ -7,6 +7,7 @@ Write a bomberman game that includes two players and several game items, like sh
 
 ### Run Locally
 * Run this Command: git clone <https://github.com/b05702057/BomberMan-Game.git>
+* Unzip the file "External Libraries.zip"
 * Follow this tutorial to include the external library: https://www.youtube.com/watch?v=7miwnp8iDm8&t=126s
 * Due to the restriction of Xcode, change all the path in the codes to absolute paths in your computer
 * Open the file "Bomb man.xcodeproj", and run it
