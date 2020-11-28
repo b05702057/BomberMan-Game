@@ -13,4 +13,4 @@ Write a bomberman game that includes two players and several game items, like sh
 * Open the file "Bomb man.xcodeproj", and run it
 
 ### Note
-* You can know more about the game and the codes from the .pdf files.
+* You can know more about the game and the codes from the files "Bomber_Man_Project_Explanation.pdf" and "Game_Introduction.pdf".
