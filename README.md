@@ -3,17 +3,13 @@
 ### A BomberMan game that you and your friends can play together
 
 ## Task
-Write a web-crawler to gather used car data from the official page of Audi and build regression models to analyze the correlations between variables.
-For example, analyze the correlation between the mileage and the price of the used car.
+Write a bomberman game that includes two players and several game items, like shoes and magic powder which can speed up the players or strengthen the power of their bombs. Make the game items appear on the map or under the wooden box randomly.
 
 ### Run Locally
 * Run this Command: git clone <https://github.com/b05702057/Audi-Used-Car-Market-Analysis.git>
-* Change directory to the where the file "Audi_Data_Web_Crawler.py" is saved
-* Install all the toolkits used in this project
-* Run this Command: python Audi_Data_Web_Crawler.py
-* Import the file "Audi Used Cars Regression Analysis.R" into Rstudio and run each command in the file
+* Follow this tutorial to include the external library: https://www.youtube.com/watch?v=7miwnp8iDm8&t=126s
+* Due to the restriction of Xcode, change all the path in the codes to absolute paths in your computer
+* Open the file "Bomb man.xcodeproj", and run it
 
 ### Note
 * The detailed statistical analysis can be seen in the report.
-* The webpage of Audi is constantly revised, and this may cause the web-crawler to break down.  
-  If the situation happens, please notify me, and I will fix the problems as soon as possible.
